@@ -13,7 +13,7 @@ For this part of the course you will need to [download](https://pathvisio.github
 
 #### Tutorials
 * You will need to learn how to draw pathways using PathVisio. **Make sure to follow the [WikiPathways Academy](https://wikipathways.github.io/academy/) to get an interactive introduction to pathway drawing.**
-* Once you have followed all of the steps of the WikiPathways Academy, you will be ready to get started drawing your own pathways in PathVisio. Before you start drawing or editing pathways, **follow the [Getting Started Guide](https://pathvisio.github.io/pages/tutorial_page/Getting_Started.html).** This guide will help you create a [WikiPathways](https://www.wikipathways.org/index.php/WikiPathways) account, install the [WikiPathways plugin](https://pathvisio.github.io/plugins/wikipathways.html) in PathVisio, and select the proper [BridgeDb](https://bridgedb.github.io/) mapping files.
+* Once you have followed all of the steps of the WikiPathways Academy, you will be ready to get started drawing your own pathways in PathVisio. Before you start drawing or editing pathways, **follow the [Getting Started Guide](https://pathvisio.github.io/tutorials/getting-started.html).** This guide will help you create a [WikiPathways](https://www.wikipathways.org/index.php/WikiPathways) account, install the [WikiPathways plugin](https://pathvisio.github.io/plugins/wikipathways.html) in PathVisio, and select the proper [BridgeDb](https://bridgedb.github.io/) mapping files.
 * Now you are ready to draw some simple pathways of your own. **[Try drawing these pathways]()**.
 
 
