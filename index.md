@@ -33,7 +33,7 @@ For this part of the course you will need to [download](https://pathvisio.github
 * **[Introduction to GO Tools]()** by Dr. Lars Eijssen
 
 #### Tutorials
-* Complete [this tutorial]() on GO Analysis using GOrilla
+* Complete [this tutorial](tutorials/GO_Analysis.md) on GO Analysis using GOrilla
 
 ## Introduction to Biological Networks
 
