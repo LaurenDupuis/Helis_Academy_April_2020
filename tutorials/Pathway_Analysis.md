@@ -3,14 +3,14 @@
 ## April 2020
 Practical prepared by Dr. Martina Summer-Kutmon and Dr. Lauren J. Dupuis
 
-------------------------------------------------------------------------------
+-------------------------------------------------------------------------------------------------------------------------
 <br>
 Pathway analysis helps you to interpret the data in a biologically meaningful context. We will use the data from the paper “Identification 
 of a novel biomarker, SEMA5A, for non-small cell lung carcinoma in nonsmoking women“ by Lu et al. published in Cancer Epidemiology, 
 Biomarkers & Prevention in 2010 (see [paper](https://cebp.aacrjournals.org/content/19/10/2590.long)). You will need the WikiPathways human pathways collection that you can download [here](http://www.wikipathways.org/wpi/batchDownload.php?species=Homo%20sapiens&fileType=gpml&tag=Curation:AnalysisCollection) as a 
 zip file. You will need to unzip it before use. You will also need the BridgeDb identifier mapping file for humans which you can download [here](https://bridgedb.github.io/data/gene_database/).
 
-For this assignment, you will need to download the [data file](../Data/comp_LungCancer-Normal.txt).
+For this assignment, you will the data file Data/comp_LungCancer-Normal.txt from the repository.
 
 ## Assignment 1: Open a Pathway in PathVisio
 ---------------------------------------------
