@@ -23,7 +23,7 @@ For this part of the course you will need to [download](https://pathvisio.github
 * **[Introduction to Pathway Analysis]()** by Dr. Lauren Dupuis
 
 #### Tutorials
-* **[This beginner's tutorial]() will give you a hands-on introduction** to pathway analysis in PathVisio.
+* **[This beginner's tutorial](tutorials/Pathway_Analysis.md) will give you a hands-on introduction** to pathway analysis in PathVisio.
 
 
 ## Introduction to Gene Ontology
