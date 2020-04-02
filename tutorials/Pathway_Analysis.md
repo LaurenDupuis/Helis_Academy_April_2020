@@ -3,6 +3,7 @@
 ## April 2020
 Practical prepared by Dr. Martina Summer-Kutmon and Dr. Lauren J. Dupuis
 ------------------------------------------------------------------------------
+
 Pathway analysis helps you to interpret the data in a biologically meaningful context. We will use the data from the paper “Identification 
 of a novel biomarker, SEMA5A, for non-small cell lung carcinoma in nonsmoking women“ by Lu et al. published in Cancer Epidemiology, 
 Biomarkers & Prevention in 2010 (see [paper](https://cebp.aacrjournals.org/content/19/10/2590.long)). You will need the WikiPathways human pathways collection that you can download [here](http://www.wikipathways.org/wpi/batchDownload.php?species=Homo%20sapiens&fileType=gpml&tag=Curation:AnalysisCollection) as a 
@@ -12,6 +13,7 @@ For this assignment, you will need to download the [data file](../Data/comp_Lung
 
 ## Assignment 1: Open a Pathway in PathVisio
 ---------------------------------------------
+
 Begin by starting PathVisio. Open the Cell Cycle pathway from the WikiPathways collection you downloaded.
 * Go to File → Open → Browse → Go to the folder with the Human pathways 
 * Select Hs_Cell_Cycle_WP179_103430.gpml
@@ -33,6 +35,7 @@ Begin by starting PathVisio. Open the Cell Cycle pathway from the WikiPathways c
 
 ## Assignment 2: Data Import in PathVisio
 -------------------------------------------
+
 > **Question 2A.** Open the statistical analysed data in Excel (comp_LungCancer-Normal.txt in Pathway_Analysis_Data folder). The first column 
 > contains the identifier of the genes (ENSG_ID). From which of the three database below are the identifiers in the dataset? 
 > *(Required for following steps!)*
