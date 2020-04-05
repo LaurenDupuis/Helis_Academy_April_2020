@@ -49,7 +49,7 @@ Import the data as described below. Go through the different dialogs and **befor
 
 Steps data import:
 1.	Menu “Data” → Import expression Data
-2.	Select the lung cancer dataset (comp_LungCancer-Normal.txt in the Pathway_Analysis_Data folder) as the input file. Everything else 
+2.	Select the lung cancer dataset (comp_LungCancer-Normal.txt in the Data folder in the private Github repository) as the input file. Everything else 
 should be filled in automatically (see Figure 2a).
 3.	In the next dialog, make sure the correct separators are used. You should see the different columns in the preview (see Figure 2b).
 
