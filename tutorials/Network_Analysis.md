@@ -55,7 +55,7 @@ for lung cancer treatment.  The identifiers and names of the drugs can be found 
 ### Assignment 2: Build network for up-regulated lung cancer genes
 
 #### **Step 1: Gene selection**
-•	Open the dataset (lung-cancer-data.xlsx) in Excel. 
+•	Open the dataset (comp_LungCancer-Normal.txt) in Excel. 
 •	Select the significantly up-regulated genes with a log2FC > 1 → filter the table by log2FC (>1) and the adju.P.Value (< 0.05). 
 •	Copy the Ensembl IDs of the 408 genes.
 #### **Step 2: Create PPI network for gene selection**
