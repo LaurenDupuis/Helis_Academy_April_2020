@@ -6,6 +6,14 @@ The data used for the tutorials is from the study of [Lu et al. 2010](https://ww
 
 Links to the lectures will be found in your private Github repository as the lectures become available. 
 
+## Introduction to Biological Databases
+
+#### Lectures
+Lecture slides are available [here](https://bigcat-um.github.io/BiGCaT-Teaching/Lectures/Databases/2019-05-13_Biological_databases.pdf). If you have any questions be sure to file an issue in your private Github repository. 
+
+#### Tutorials
+* **[Use of Online Data Resources for Molecular Biology](tutorials/Databases.md)**
+
 ## Introduction to Biological Pathways
 For this part of the course you will need to [download](https://pathvisio.github.io/downloads) the pathway drawing software [PathVisio](https://pathvisio.github.io/). Follow the Binary Installation instructions in the [Installation Guide](https://pathvisio.github.io/pages/installation_guide.html) for your operating system.
 
