@@ -4,12 +4,13 @@ Ths course is brought to you by the [Helis Academy](https://helisacademy.com/en)
 
 The data used for the tutorials is from the study of [Lu et al. 2010](https://www.ncbi.nlm.nih.gov/pubmed/20802022) and is freely available for download [here](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=gse19804). 
 
+Links to the lectures will be found in your private Github repository as the lectures become available. 
+
 ## Introduction to Biological Pathways
 For this part of the course you will need to [download](https://pathvisio.github.io/downloads) the pathway drawing software [PathVisio](https://pathvisio.github.io/). Follow the Binary Installation instructions in the [Installation Guide](https://pathvisio.github.io/pages/installation_guide.html) for your operating system.
 
 #### Lectures
-* **[Introduction to Biological Pathways]()** by Dr. Lauren Dupuis (slides prepared by Dr. Kristina Hanspers and Dr. Lauren Dupuis)
-* **[WikiPathways Walkthrough]()** by Dr. Lauren Dupuis
+* **Introduction to Pathway Modeling** by Dr. Lauren Dupuis (slides prepared by Dr. Kristina Hanspers and Dr. Lauren Dupuis)
 
 #### Tutorials
 * You will need to learn how to draw pathways using PathVisio. **Make sure to follow the [WikiPathways Academy](https://wikipathways.github.io/academy/) to get an interactive introduction to pathway drawing.**
@@ -20,7 +21,7 @@ For this part of the course you will need to [download](https://pathvisio.github
 ## Introduction to Pathway Analysis
 
 #### Lectures
-* **[Introduction to Pathway Analysis]()** by Dr. Lauren Dupuis
+* **Introduction to Pathway Analysis** by Dr. Lauren Dupuis (slides prepared by Dr. Martina Kutmon and Dr. Lauren Dupuis)
 
 #### Tutorials
 * **[This beginner's tutorial](tutorials/Pathway_Analysis.md) will give you a hands-on introduction** to pathway analysis in PathVisio.
@@ -29,8 +30,7 @@ For this part of the course you will need to [download](https://pathvisio.github
 ## Introduction to Gene Ontology
 
 #### Lectures
-* **[Introduction to Gene Ontology]()** by Dr. Lars Eijssen
-* **[Introduction to GO Tools]()** by Dr. Lars Eijssen
+* **Introduction to Gene Ontology** by Dr. Lars Eijssen
 
 #### Tutorials
 * Complete [this tutorial](tutorials/GO_Analysis.md) on GO Analysis using GOrilla
@@ -38,8 +38,7 @@ For this part of the course you will need to [download](https://pathvisio.github
 ## Introduction to Biological Networks
 
 #### Lectures
-* **[Introduction to Biological Networks]()** by Dr. Martina Summer-Kutmon
-* **[Introduction to Cytoscape]()** by Dr. Martina Summer-Kutmon
+* **Introduction to Biological Networks** by Dr. Martina Summer-Kutmon
 
 #### Tutorials
 * Complete this [Network Analysis](tutorials/Network_Analysis.md) tutorial using Cytoscape.
