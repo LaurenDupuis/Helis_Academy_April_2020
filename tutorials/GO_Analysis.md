@@ -11,7 +11,7 @@ April, 2020
 Gene Ontology (GO) provides a structured and controlled vocabulary to describe gene products in terms of their associated biological 
 processes, cellular components and molecular functions. One of the main uses of GO is to perform functional enrichment analysis on gene sets. 
 
-For GO analysis, we need two different gene lists:
+For GO analysis, we need two different gene lists (available in the private Github repository):
 1.	Target gene set - we selected upregulated genes in the dataset with logFC > 1 and a significant p value
 “upregulated_genes.txt” 
 2.	Background set - complete list of measured genes in the dataset - 
